@@ -1,3 +1,3 @@
 Deze repo heeft testclasses voor volgende userstory:
 
-*vul hier de userstory in*
+Als (ingelogde) een user moet je een overview kunnen zien van al de users
